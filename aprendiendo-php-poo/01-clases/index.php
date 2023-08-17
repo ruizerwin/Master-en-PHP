@@ -8,7 +8,7 @@ class Coche{
 	// Atributos o propiedades (variables)
 	public $color = "Rojo";
 	public $marca = "Ferrari";
-	public $modelo = "Aventador";
+	public $modelo = "Lamborgini";
 	public $velocidad = 300;
 	public $caballaje = 500;
 	public $plazas = 2;
